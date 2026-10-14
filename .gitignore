@@ -1,0 +1,23 @@
+# Unreal Engine generated files
+/.vs/
+/.vscode/
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+
+# Generated IDE files (regenerate from the .uproject file when needed)
+/*.sln
+/*.slnx
+/*.code-workspace
+/*.vsconfig
+
+# Local helper rule file; Git uses this .gitignore instead.
+/.ignore
+
+# Optional third-party/editor dependencies. Install these locally before opening the project.
+/Plugins/VisualStudioTools/
+/Content/Characters/
+/Content/MetaHumans/
+/Content/Locomotor/
+/Content/Developers/
